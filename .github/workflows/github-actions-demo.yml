@@ -1,10 +1,5 @@
-name: Github Actions demo
-on:
-  push:
-    branches:
-      - master
-
-name: "Trigger: Push action"
+on: push
+name: "Trigger: Push"
 jobs:
   shellcheck:
     name: Shellcheck
