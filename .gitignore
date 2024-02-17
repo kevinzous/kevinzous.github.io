@@ -1,0 +1,13 @@
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+
+# jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
