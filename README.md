@@ -6,7 +6,7 @@
 homebrew install ruby # install ruby https://jekyllrb.com/docs/installation/macos/
 gem install jekyll bundler # install jekyll
 gem env
-bundle install
+bundle install # install gems from gemfile.lock
 ```
 
 ```sh
